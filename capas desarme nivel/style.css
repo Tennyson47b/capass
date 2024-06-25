@@ -1,0 +1,16 @@
+html {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background: rgb(244,216,205);
+margin-top: 5%;
+margin-left: 25%;
+margin-right: 25%;
+ 
+}
+canvas {
+  display: block;
+}
+
+
